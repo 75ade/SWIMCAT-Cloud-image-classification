@@ -1,7 +1,7 @@
 # SWIMCAT-Cloud-image-classification
 
 ## About
-This project is about predicting the type of cloud or sky using the machine learning models training on the SWIMCAT dataset
+This project is about predicting the type of cloud or sky using the machine learning models training on the SWIMCAT dataset specifically the SWIMCAT-ext version, you can find the raw dataset at this link: https://data.mendeley.com/datasets/vwdd9grvdp/1
 
 ## Usage
 To use this project, you just need to download the file and run it on any IDEs or platforms that you like since this project does not need the GPU usage.
